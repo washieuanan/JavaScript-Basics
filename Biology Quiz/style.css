@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://www.elsetge.cat/myimg/f/232-2329430_dna-background.png);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
